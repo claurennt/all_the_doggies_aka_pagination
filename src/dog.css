@@ -1,0 +1,4 @@
+.dog {
+  display: flex;
+  flex-direction: row;
+}
